@@ -10,10 +10,10 @@ Instructions for my future ref and in case you need it too
 In the anaconda prompt line:
     # https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
     # Only needs to be done once
-    conda create --name Cues
+    conda create --name LA3
 
-    # Activate Cues to add more installs/imports
-    conda activate Cues
+    # Activate LA3 to add more installs/imports
+    conda activate LA3
 
     # The imports I included so far
     <!-- pip install pandas
@@ -28,5 +28,5 @@ In the anaconda prompt line:
 Restart VS Code as needed
 
 Top right you should have the option to change the kernel
-Drop down appears - Select another kernel and 'Cues' should show as an option
+Drop down appears - Select another kernel and 'LA3' should show as an option
 It didn't initially show up for me until I ran 'conda install ipykernel' above
